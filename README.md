@@ -5,6 +5,7 @@ Welcome to our comprehensive 5-day course designed to blend the realms of Python
 
 ## Course Overview
 This course spans over five days, each dedicated to a specific set of skills and knowledge areas necessary for mastering the integration of computer vision with robotics:
+
 **Day 1: Introduction to GitHub , Basic Linux Commands and Python Basics I**
   Get familiar with version control using GitHub and navigate through Linux environments using command-line tools. This foundation is crucial for software development and deployment.
 
