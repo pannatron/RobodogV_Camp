@@ -13,3 +13,7 @@ This course spans over five days, each dedicated to a specific set of skills and
 **Day 2: Python Basics II**
   
   -Dive into Python programming, covering essential syntax, data structures, and programming concepts. Python's simplicity and power make it the perfect language for beginners and experts alike.
+
+**Day 3: Image Processing and Computer Vision Fundamentals**
+
+  -Explore the basics of image processing and how computer vision algorithms can interpret and understand visual data. This knowledge is key to enabling robots to make sense of their surroundings.
