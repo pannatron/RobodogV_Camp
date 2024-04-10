@@ -16,6 +16,6 @@ cd RobodogV_Camp
 ```bash
 git checkout day1
 ```
-Day 1 Exercises Overview
+# Day 1 Exercises Overview
 Day 1 is dedicated to getting you familiar with basic programming concepts in Python. You'll learn about variables, input/output operations, conditionals, and basic data types through hands-on exercises.
 
