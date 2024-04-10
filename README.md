@@ -21,3 +21,7 @@ This course spans over five days, each dedicated to a specific set of skills and
 **Day 4: Introduction to AI with Teachable Machine**
 
   -Learn about artificial intelligence through Teachable Machine, a tool that allows you to create simple AI models. This will serve as an introduction to how machines can learn from visual data.
+
+**Day 5: Controlling Robots with Computer Vision**
+  
+  -Apply your newfound knowledge to control Bittle, a versatile and agile robot dog, using computer vision. This session will focus on integrating image processing algorithms with robotics control.
