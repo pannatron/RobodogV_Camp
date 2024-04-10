@@ -25,3 +25,20 @@ This course spans over five days, each dedicated to a specific set of skills and
 **Day 5: Controlling Robots with Computer Vision**
   
   -Apply your newfound knowledge to control Bittle, a versatile and agile robot dog, using computer vision. This session will focus on integrating image processing algorithms with robotics control.
+
+## Getting Started
+To begin, please ensure you have access to the course materials by cloning the main repository:
+
+```bash
+git clone https://github.com/pannatron/RobodogV_Camp.git
+```
+
+Navigate through the branches day1 to day5 to access the materials and exercises for each day:
+```bash
+git checkout day1
+```
+Repeat the checkout command, replacing day1 with day2, day3, etc., as you progress through the course.
+
+
+
+
