@@ -1,4 +1,5 @@
-# Introduction to  Computer Vision with Bittle Robot
+# Introduction to  Computer Vision with Bittle Robot 
+![](https://www.facebook.com/photo/?fbid=130763633192924&set=a.106798435589444)
 
 Introduction to Python and Computer Vision with Bittle Robot
 Welcome to our comprehensive 5-day course designed to blend the realms of Python programming and computer vision to control robots effectively. This README provides an overview of the course structure, objectives, and the key concepts you'll be exploring. Our primary goal is to apply computer vision techniques to navigate and control robots, focusing on hands-on learning and practical applications.
@@ -37,11 +38,9 @@ Navigate through the branches day1 to day5 to access the materials and exercises
 ```bash
 git checkout day1
 ```
-
-![](https://github.com/PetoiCamp/NonCodeFiles/blob/master/gif/backflip.gif?raw=true)
-
 Repeat the checkout command, replacing day1 with day2, day3, etc., as you progress through the course.
 
 
+![](https://github.com/PetoiCamp/NonCodeFiles/blob/master/gif/backflip.gif?raw=true)
 
 
