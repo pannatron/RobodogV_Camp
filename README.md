@@ -17,7 +17,6 @@ cd RobodogV_Camp
 git checkout day1
 ```
 Day 1 Exercises Overview
-
 Day 1 is dedicated to getting you familiar with basic programming concepts in Python. You'll learn about variables, input/output operations, conditionals, and basic data types through hands-on exercises.
 
 Exercise 1.1: Completing Sentences
@@ -43,4 +42,3 @@ Open the Python script template—this is where you'll write your code.
 Follow the README.md instructions in each folder for specific details and examples.
 Conclusion
 By the end of Day 1, you'll have a solid foundation in Python programming basics, preparing you for more complex topics in future sessions. Dive in, enjoy the process, and don't hesitate to reach out if you have any questions. Happy coding!
-
