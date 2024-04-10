@@ -24,7 +24,7 @@ This course spans over five days, each dedicated to a specific set of skills and
 
 **Day 5: Controlling Robots with Computer Vision**
   
-  -Apply your newfound knowledge to control Bittle, a versatile and agile robot dog, using computer vision. This session will focus on integrating image processing algorithms with robotics control.
+  - Apply your newfound knowledge to control Bittle, a versatile and agile robot dog, using computer vision. This session will focus on integrating image processing algorithms with robotics control.
 
 ## Getting Started
 To begin, please ensure you have access to the course materials by cloning the main repository:
