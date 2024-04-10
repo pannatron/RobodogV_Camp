@@ -17,3 +17,7 @@ This course spans over five days, each dedicated to a specific set of skills and
 **Day 3: Image Processing and Computer Vision Fundamentals**
 
   -Explore the basics of image processing and how computer vision algorithms can interpret and understand visual data. This knowledge is key to enabling robots to make sense of their surroundings.
+
+**Day 4: Introduction to AI with Teachable Machine**
+
+  -Learn about artificial intelligence through Teachable Machine, a tool that allows you to create simple AI models. This will serve as an introduction to how machines can learn from visual data.
