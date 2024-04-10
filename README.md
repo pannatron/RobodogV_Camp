@@ -8,19 +8,19 @@ This course spans over five days, each dedicated to a specific set of skills and
 
 **Day 1: Introduction to GitHub , Basic Linux Commands and Python Basics I**
   
-  -Get familiar with version control using GitHub and navigate through Linux environments using command-line tools. This foundation is crucial for software development and deployment.
+  - Get familiar with version control using GitHub and navigate through Linux environments using command-line tools. This foundation is crucial for software development and deployment.
 
 **Day 2: Python Basics II**
   
-  -Dive into Python programming, covering essential syntax, data structures, and programming concepts. Python's simplicity and power make it the perfect language for beginners and experts alike.
+  - Dive into Python programming, covering essential syntax, data structures, and programming concepts. Python's simplicity and power make it the perfect language for beginners and experts alike.
 
 **Day 3: Image Processing and Computer Vision Fundamentals**
 
-  -Explore the basics of image processing and how computer vision algorithms can interpret and understand visual data. This knowledge is key to enabling robots to make sense of their surroundings.
+  - Explore the basics of image processing and how computer vision algorithms can interpret and understand visual data. This knowledge is key to enabling robots to make sense of their surroundings.
 
 **Day 4: Introduction to AI with Teachable Machine**
 
-  -Learn about artificial intelligence through Teachable Machine, a tool that allows you to create simple AI models. This will serve as an introduction to how machines can learn from visual data.
+  - Learn about artificial intelligence through Teachable Machine, a tool that allows you to create simple AI models. This will serve as an introduction to how machines can learn from visual data.
 
 **Day 5: Controlling Robots with Computer Vision**
   
